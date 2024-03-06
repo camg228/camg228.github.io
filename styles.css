@@ -11596,8 +11596,8 @@ html {
 }
 .profile .profile-img {
   border-radius: 100%;
-  height: 80vw;
-  max-height: 45rem;
+  height: 80vw- 10;
+  max-height: 45rem -10;
   position: absolute;
   bottom: 0;
   left: 50%;

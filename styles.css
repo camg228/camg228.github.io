@@ -11595,6 +11595,7 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
+  border-radius: 10%;
   height: 75vw;
   max-height: 45rem;
   position: absolute;

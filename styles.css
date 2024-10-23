@@ -225,6 +225,10 @@ small, .small {
   font-size: 0.875em;
 }
 
+medium, .medium {
+  font-size: 1.0em;
+}
+
 mark, .mark {
   padding: 0.1875em;
   background-color: var(--bs-highlight-bg);
